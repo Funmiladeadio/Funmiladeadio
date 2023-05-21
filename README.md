@@ -1,4 +1,4 @@
-[![MasterHead](https://successive.cloud/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png.webp)]
+![MasterHead](https://successive.cloud/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2022/04/Data-Analytics-Benefits-768x403.png.webp)
 <h1 align="center">Hi 👋, I'm Funmilade Adio</h1>
 <h3 align="center">A data analyst with keen interest in Business Intelligence.</h3>
 <img align="right" alt="coding" width="400" src="https://www.netcov.com/wp-content/pubfiles/2020/10/shutterstock_277915391.jpg">
